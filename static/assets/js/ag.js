@@ -133,8 +133,8 @@ function p2048() {
 }
 
 function rbx() {
-  alert(`Note: Roblox should be working now, but if it still gives you an VPN/Proxy detection message, refresh it.`);
-  openAg('https://now.derpman.lol');
+  alert(`Note: Roblox is maybe working now, but if it still gives you an VPN/Proxy detection message, just refresh it.`);
+  openAg('https://shuttle.lol/apps/roblox-corporation/5349/roblox.html');
 }
 
 function slope() {
