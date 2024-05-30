@@ -70,7 +70,7 @@ server.on("upgrade", (req, socket, head) => {
 });
 
 server.on("listening", () => {
-  console.log(`Doge Unblocker @ Port 8000`);
+  console.log(`Janeq Unblocker @ Port 8000`);
 });
 
 server.listen({
